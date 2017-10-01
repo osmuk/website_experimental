@@ -1,0 +1,18 @@
+body {
+    font-family: helvetica, arial, sans-serif; 
+}
+
+#container {
+    width: 1024px;
+}
+
+#map {
+    width: 100%;
+    height: 768px;
+}
+
+#loginform {
+    margin-bottom: 5px;
+}
+
+
