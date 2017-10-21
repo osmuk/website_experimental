@@ -2,8 +2,23 @@ body {
     font-family: helvetica, arial, sans-serif; 
 }
 
+a {
+    text-decoration: none;
+}
+
+#logodiv, #whatis {
+    float: left;
+}
+
+#whatis {
+    font-style: italic;
+    font-weight: bold;
+    margin: 5px;
+}
+
 #container {
     width: 1024px;
+    clear: both;
 }
 
 #map {
@@ -12,7 +27,8 @@ body {
 }
 
 #loginform {
-    margin-bottom: 5px;
+    margin:  5px;
+    float:left;
 }
 
 
