@@ -11,7 +11,6 @@ a {
 }
 
 #whatis {
-    font-style: italic;
     font-weight: bold;
     margin: 5px;
 }
@@ -28,7 +27,7 @@ a {
 
 #loginform {
     margin:  5px;
-    float:left;
+    float:right;
 }
 
 
