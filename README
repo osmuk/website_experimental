@@ -1,0 +1,7 @@
+This is the source code for the OSM UK mapping website, as in the client- and
+server-side scripting for the site's logic.
+The rendering will not live here. Currently SomeoneElseOSM's style
+(slightly modified) is being used. See:
+    -https://github.com/osmuk/SomeoneElse-style
+    -https://github.com/osmuk/openstreetmap-carto-AJT
+
